@@ -36,7 +36,7 @@
 
 - Logo após iniciar o _GIT INIT_ você vai ter que fazer algumas configurações básicas usando esses comandos, _GIT Config --global User.Name "(coloque o mesmo que usa no GITHUB de preferência)"_ e o _GIT config --global user.email "(Use o mesmo que usa no GITHUB de preferência)"_, essas configurações básicas são necessárias para você realizar o _commit_.
 
-- Antes de continuarmos vou explicar mesmo que superficialmente o que é um _commit_. O _commit_ é um objeto identificador e nele tem o _SHA1_(Sha1 foi desenvolvido pela Agencia Nacional dos Estados Unidos, ele é um algoritmo de encriptação que ao rodar esse algoritmo em algum arquivo ele nos passa uma sequencia de 40 caracteres), ele tem um _Autor_, um _TimeStamp_(é como se fosse um carimbo de quando foi commitado com data/hora) e uma sequência de caracteres para você escrever do que se trata aquele _commit_ ou o que foi alterado nele.
+- Antes de continuarmos vou explicar mesmo que superficialmente o que é um _commit_. O _commit_ é um objeto identificador e nele tem o _SHA1_(Sha1 foi desenvolvido pela Agencia Nacional dos Estados Unidos, ele é um algoritmo de encriptação que ao rodar esse algoritmo em algum arquivo ele nos passa uma sequencia de 40 caracteres), ele tem um _Autor_, um _TimeStamp_(é como se fosse um carimbo de quando foi commitado com data/hora) e uma _mensagem_ para você escrever do que se trata aquele _commit_ ou o que foi alterado nele.
 
 - Após efetuar as configurações básicas você vai fazer o _commit_, usando o comando _GIT commit -m "(escreva o que foi feito, ou se foi feita alguma alteração)", e assim esta criado seu _commit_.
 
