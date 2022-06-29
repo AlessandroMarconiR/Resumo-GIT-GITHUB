@@ -40,6 +40,8 @@
 
 - Após efetuar as configurações básicas você vai fazer o _commit_, usando o comando _GIT commit -m "(escreva o que foi feito, ou se foi feita alguma alteração)", e assim esta criado seu _commit_.
 
+- Para mais informações basta acessar o link: [O que é um Branch · git (gitbooks.io)](https://yunwuxin1.gitbooks.io/git/content/pt-br/cc77aedd1d96df8699d34a2ccb377483/ae0334b6ccde906fb80a7b13e3bf8eb4.html)
+
   
 
   ### _Como Criar Seu Repositório no GITHUB_:
@@ -49,7 +51,8 @@
 
   ### Como empurrar(PUSH) um commit para o GITHUB:
 
-  - Após esses passos a passos vamos empurrar nosso commit ao GITHUB, para isso vamos usar os comandos GIT PUSH origin main(ou vai aparecer master as vezes).
+  - Após criar o repositório use o comando GIT clone e na frente coloque o link do seu repositório.
+  - Ao seguir esses passos a passos vamos empurrar nosso _commit_ ao GITHUB, para isso vamos usar os comandos GIT PUSH origin main(ou vai aparecer master as vezes).
 
   
 
